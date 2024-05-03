@@ -91,7 +91,7 @@ class _SearchScreenState extends State<SearchScreen> {
                                   width: 1,
                                 ),
                               ),
-                              hintText: "Search Amazon.in",
+                              hintText: "Search ShopQwik.in",
                               hintStyle: const TextStyle(
                                 fontWeight: FontWeight.w500,
                                 fontSize: 17,
@@ -109,7 +109,7 @@ class _SearchScreenState extends State<SearchScreen> {
                       ),
                       child: const Icon(
                         Icons.mic,
-                        color: Colors.black,
+                        color: Colors.white,
                         size: 25,
                       ),
                     )
